@@ -4,6 +4,8 @@
 This project implements a subset of the TPCx-BB (BigBench) benchmark queries using **Apache Spark** and **PySpark DataFrames**.  
 The goal is to demonstrate how SQL-based analytical queries from the TPCx-BB suite can be translated into PySpark DataFrame operations for distributed processing on large datasets.
 
+This project was created as part of the Data Management course at Università della Svizzera italiana (USI).
+
 TPCx-BB is a well-known benchmark designed to evaluate big data analytics and machine learning performance in a distributed environment. In this project, I focused on **data manipulation, filtering, aggregation, and joining operations** using PySpark.
 
 ---
