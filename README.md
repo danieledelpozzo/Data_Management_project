@@ -50,3 +50,9 @@ The project uses **TPCx-BB dataset tables** stored in parquet format:
 - Jupyter Notebook for interactive exploration
 - Parquet files for efficient dataset storage
 
+---
+
+## Ownership
+
+This project was created as part of the Data Management course at Università della Svizzera italiana (USI).
+
