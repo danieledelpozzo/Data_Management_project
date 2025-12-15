@@ -46,7 +46,7 @@ The project uses **TPCx-BB dataset tables** stored in parquet format:
 ## Technologies Used
 - Apache Spark 3.x
 - PySpark SQL & DataFrame API
-- Python 3.10+
+- Python 
 - Jupyter Notebook for interactive exploration
 - Parquet files for efficient dataset storage
 
